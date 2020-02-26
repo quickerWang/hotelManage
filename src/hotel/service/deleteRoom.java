@@ -1,0 +1,10 @@
+package hotel.service;
+/**
+ * 
+ * @author ÑîÏþÍ©
+ * 20180715
+ * É¾³ýroom
+ */
+public interface deleteRoom {
+	public boolean deleteroom(String[]s);
+}
